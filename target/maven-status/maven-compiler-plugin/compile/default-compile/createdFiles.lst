@@ -1,0 +1,5 @@
+controllers\ApplicationController.class
+controllers\ApplicationController$SimplePojo.class
+entity\Post.class
+conf\Module.class
+conf\Routes.class
